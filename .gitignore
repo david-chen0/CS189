@@ -1,1 +1,6 @@
 *.DS_Store
+hw1/*data
+hw1/*data/
+hw1/!.gitignore
+hw1/README.txt
+hw3/README.txt
