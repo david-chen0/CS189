@@ -7,3 +7,5 @@ hw3/*data
 hw3/*data/
 hw3/!.gitignore
 hw3/README.txt
+hw4/README.txt
+hw4/data_wine.mat
