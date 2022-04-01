@@ -9,3 +9,8 @@ hw3/!.gitignore
 hw3/README.txt
 hw4/README.txt
 hw4/data_wine.mat
+hw5/README.txt
+hw5/data/titanic/titanic_testing_data.csv
+hw5/data/titanic/titanic_training.csv
+hw5/decision_tree_starter.py
+hw5/data/spam_data/spam_data.mat
