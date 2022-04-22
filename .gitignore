@@ -14,3 +14,9 @@ hw5/data/titanic/titanic_testing_data.csv
 hw5/data/titanic/titanic_training.csv
 hw5/decision_tree_starter.py
 hw5/data/spam_data/spam_data.mat
+hw6/.ipynb_checkpoints
+hw6/datasets
+hw6/experiments
+hw6/tests
+hw6/neural_networks/__pycache__
+hw6/neural_networks/utils/__pycache__
